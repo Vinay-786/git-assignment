@@ -1,2 +1,4 @@
 Vinay
 New Delhi
+
+Skills: Python, Typescript, Golang
